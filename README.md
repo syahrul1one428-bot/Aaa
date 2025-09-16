@@ -1,4 +1,4 @@
 # tahu 
 foto tahu 
 
-![Tahu](Penyimpananinternal/Foto/Tahu.png)
+![Tahu](Penyimpanan/internal/Foto/Tahu.png)
