@@ -1,4 +1,4 @@
 #tahu 
 foto tahu 
 
-![Tahu](Foto/Tahu.png)
+[Tahu](Foto/Tahu.png)
